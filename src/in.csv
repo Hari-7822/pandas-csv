@@ -1,7 +1,7 @@
-id, FirstName, LastName, Username, Email, Avatar, Gender, DoB, Address
-1, Christiano, Ronaldo, christiano.Ronaldo, cr7@gmail.com, none, Male, 11-11-1992, Manchester united Portugal
-2, Peggie,Mosciski, peggie.mosciski, peggie.mosciski@email.com, https://robohash.org/idiustovelit.png?size=300x300\u0026set=set1, Polygender,10-2-1922, Hermannhaven Brent Path 6268 Tamica Oval 06895 South Dakota United States
-3, Lionel, messi, Lionel.messi, messi@email.com, https://robohash.org/rerummolestiaeharum.png?size=300x300\u0026set=set1, Male, 12-2-1940, Psg Argentina
-4, Paul, Pogba, Paul.Pogba, pogba@email.com, https://robohash.org/football.png?size=300x300\u0026set=set4, Male, 10-12-1980, Juventus France
-5, Kylian, Mbappe, kylian.mbappe, mbappe@email.com, https://robohash.org/money.png?size=300x300\u0026set=set90, Male, 1-1-1979, Psg France
-6, Neymar, Jr, Neymar.Jr, NeymarJr@email.com,  https://robohash.org/joy.png?size=300x300\u0022set=set10, Male, 10-10-1989, Psg Brazil
+id,FirstName,LastName,Username,Email,Avatar,Gender,DoB,Address
+1,Christiano,Ronaldo,christiano.Ronaldo,cr7@gmail.com,none,Male,11-11-1992,Manchester united Portugal
+2,Peggie,Mosciski,peggie.mosciski,peggie.mosciski@email.com,https://robohash.org/idiustovelit.png?size=300x300\u0026set=set1,Polygender,10-2-1922,Hermannhaven Brent Path 6268 Tamica Oval 06895 South Dakota United States
+3,Lionel,messi,Lionel.messi,messi@email.com,https://robohash.org/rerummolestiaeharum.png?size=300x300\u0026set=set1,Male,12-2-1940,Psg Argentina
+4,Paul,Pogba,Paul.Pogba,pogba@email.com,https://robohash.org/football.png?size=300x300\u0026set=set4,Male,10-12-1980,Juventus France
+5,Kylian,Mbappe,kylian.mbappe,mbappe@email.com,https://robohash.org/money.png?size=300x300\u0026set=set90,Male,1-1-1979,Psg France
+6,Neymar,Jr,Neymar.Jr,NeymarJr@email.com, https://robohash.org/joy.png?size=300x300\u0022set=set10,Male,10-10-1989,Psg Brazil
