@@ -1,5 +1,5 @@
 # pandas-csv
-A python code that manipulates csv files
+A python code that manipulates csv files constructed using pandas
 
 ## Usage
 
