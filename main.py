@@ -16,6 +16,3 @@ dest_read.sort_values("FirstName", ascending =True, inplace = True, na_position 
 
 
 dest_read.drop_duplicates()
-
-print(list)
-print(dest_read)
