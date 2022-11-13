@@ -1,1 +1,1 @@
-import func, main, search
+import func, main, search, fake

@@ -14,5 +14,3 @@ list = dest_read.columns.tolist()
 
 dest_read.sort_values("FirstName", ascending =True, inplace = True, na_position = 'first') #sorting in acsending manner in Csv
 
-
-dest_read.drop_duplicates()
